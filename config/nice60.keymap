@@ -67,7 +67,7 @@
 			bindings = <
 	&trans &trans &kp LA(RIGHT)  &trans &trans        &trans        &trans    &trans    &trans  &trans     &trans &trans &trans &trans
 	&trans &trans &trans         &trans &trans        &trans        &trans    &trans    &trans  &trans     &trans &trans &trans &trans
-	&trans &trans &trans         &trans &to FULL_DIR  &trans        &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans &trans &trans
+	&trans &trans &trans         &trans &mo FULL_DIR  &trans        &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans &trans &trans
 	&trans &trans &trans         &trans &trans        &kp LA(LEFT)  &trans    &trans    &trans  &trans     &trans &trans
 	&trans &trans &trans         &trans &trans        &trans        &trans    &trans
 			>;
